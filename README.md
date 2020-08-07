@@ -1,5 +1,5 @@
 # Personal Website
 
-Modified using HTML, CSS, & Javascript 
+[Click here to visit my website!](https://aidanandrucyk.github.io/)
 
-template from [bootstrapmade.com](https://bootstrapmade.com)
+Template from [bootstrapmade.com](https://bootstrapmade.com) and modified using HTML, CSS, & Javascript 
